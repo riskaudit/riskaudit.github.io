@@ -56,7 +56,7 @@ When the Hyogo Framework for Action 2005-2015 concluded, a global concern on the
 
 This short-termism of SFDRR has already been argued in the past by the insurance industry because of the use of improper ‘snapshot’ metrics, which does not fully represent the incremental progress of countries by disregarding the scientific understanding of the occurrence of extreme events, as widely used in the state-of-the-art (SOTA) probabilistic catastrophe models. Despite the availability of SOTA models, modelling and ethical challenges remain in standardising exposure datasets across countries with different and lacking vulnerability characteristics. 
 
-To this end, this project investigates SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable **the beginnings of a global risk audit, measuring the changes of disaster risk profiles over time to assess whether countries are making progress** (see [Research](research)).
+To this end, this project investigates SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a **global risk audit**, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
 
  **We are always looking for collaborators and stakeholders to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -65,7 +65,7 @@ We are grateful for funding from the University of Cambridge International Bursa
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 1750px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/curbe_logo.jpg" style="width: 90px">
 </figure>
