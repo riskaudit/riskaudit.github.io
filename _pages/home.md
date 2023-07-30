@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "The Risk Audit Project - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Allan Lab at the University of Cambridge."
 sitemap: false
 permalink: /
 ---
