@@ -1,12 +1,12 @@
 ---
 title: "The Risk Audit Project - Home"
 layout: homelay
-excerpt: "Allan Lab at the University of Cambridge."
+excerpt: "The Risk Audit Project at the University of Cambridge."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are an interdisciplinary research team at the [Cambridge University Centre for Risk in the Built Environment](https://www.arct.cam.ac.uk/research/the-martin-centre/risk) and [AI for Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/). Our aim is to explore how artificial intelligence can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -52,17 +52,12 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
-
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+When the Hyogo Framework for Action 2005-2015 concluded, a global concern on the increasing frequency and intensity of disasters, the exacerbating effects of climate change, and the higher rate of increase of human settlements exposed to disasters despite a decrease in their vulnerability urged the international community to jointly develop the Sendai Framework for Disaster Risk Reduction (SFDRR) 2015-2030 [1]. However, its 2023 midterm assessment has revealed inadequacies with prevailing short-termism, thus stressing the need for a reliable understanding of the evolving risk landscape [2]. This short-termism of SFDRR has already been argued in the past by the insurance industry because of the use of improper ‘snapshot’ metrics, which does not fully represent the incremental progress of countries by disregarding the scientific understanding of the occurrence of extreme events, as widely used in the state-of-the-art (SOTA) probabilistic catastrophe models [3]. Despite the availability of SOTA models,  modelling and ethical challenges remain in standardising exposure datasets across countries with different and lacking vulnerability characteristics [4]. Therefore, this project will investigate SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a global risk audit, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from the UK Research & Innovation and the University of Cambridge International Bursary, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
