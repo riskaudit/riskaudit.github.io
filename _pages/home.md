@@ -54,14 +54,12 @@ We are an interdisciplinary research team at the [Cambridge University Centre fo
 
 When the Hyogo Framework for Action 2005-2015 concluded, a global concern on the increasing frequency and intensity of disasters, the exacerbating effects of climate change, and the higher rate of increase of human settlements exposed to disasters despite a decrease in their vulnerability urged the international community to jointly develop the Sendai Framework for Disaster Risk Reduction (SFDRR) 2015-2030 [1]. However, its 2023 midterm assessment has revealed inadequacies with prevailing short-termism, thus stressing the need for a reliable understanding of the evolving risk landscape [2]. This short-termism of SFDRR has already been argued in the past by the insurance industry because of the use of improper ‘snapshot’ metrics, which does not fully represent the incremental progress of countries by disregarding the scientific understanding of the occurrence of extreme events, as widely used in the state-of-the-art (SOTA) probabilistic catastrophe models [3]. Despite the availability of SOTA models,  modelling and ethical challenges remain in standardising exposure datasets across countries with different and lacking vulnerability characteristics [4]. Therefore, this project will investigate SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a global risk audit, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for collaborators and stakeholders to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from the UK Research & Innovation and the University of Cambridge International Bursary, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 210px">
 </figure>
