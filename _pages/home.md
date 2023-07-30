@@ -64,8 +64,8 @@ To this end, this project investigates SOTA models and machine learning (ML) met
 We are grateful for funding from the University of Cambridge International Bursary and the UK Research & Innovation Engineering and Physical Sciences Research Council.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 175px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 175px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.png" style="width: 175px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/curbe_logo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 1750px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/curbe_logo.jpg" style="width: 90px">
 </figure>
