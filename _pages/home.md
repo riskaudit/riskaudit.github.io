@@ -62,6 +62,6 @@ We are grateful for funding from the University of Cambridge International Bursa
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/curbe_logo.jpg" style="width: 110px">
 </figure>
