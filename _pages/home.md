@@ -57,9 +57,11 @@ When the Hyogo Framework for Action 2005-2015 concluded, a global concern on the
  **We are always looking for collaborators and stakeholders to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from the UK Research & Innovation and the University of Cambridge International Bursary.
+We are grateful for funding from the University of Cambridge International Bursary and the UK Research & Innovation Engineering and Physical Sciences Research Council.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cambridge_logo.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ukri_epsrc_logo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dlr_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/curbe_logo.jpg" style="width: 110px">
 </figure>
