@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are an interdisciplinary research team at the [Cambridge University Centre for Risk in the Built Environment](https://www.arct.cam.ac.uk/research/the-martin-centre/risk) and [AI for Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/). Our aim is to explore how artificial intelligence can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards.
+We are an interdisciplinary research team at the [Cambridge University Centre for Risk in the Built Environment](https://www.arct.cam.ac.uk/research/the-martin-centre/risk) and [AI for Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/). Our aim is to explore how artificial intelligence (AI) can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -56,7 +56,7 @@ When the Hyogo Framework for Action 2005-2015 concluded, a global concern on the
 
 This short-termism of SFDRR has already been argued in the past by the insurance industry because of the use of improper ‘snapshot’ metrics, which does not fully represent the incremental progress of countries by disregarding [**the scientific understanding of the occurrence of extreme events**](https://www.reinsurancene.ws/sendai-frameworks-targets-based-on-too-little-data-rms/), as widely used in the state-of-the-art (SOTA) probabilistic catastrophe models. Despite the availability of SOTA models, [**modelling and ethical challenges remain**](https://link.springer.com/article/10.1007/s11069-022-05590-7) in standardising exposure datasets across countries with different and lacking vulnerability characteristics. 
 
-To this end, this project investigates SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a **global risk audit**, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
+To this end, this project investigates SOTA models and AI methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a **global risk audit**, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
 
  **We are always looking for stakeholders such as local disaster risk managers (especially from underrepresented and high-rise countries) for collaboration to inform our research design.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
