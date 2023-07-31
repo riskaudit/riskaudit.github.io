@@ -58,7 +58,7 @@ This short-termism of SFDRR has already been argued in the past by the insurance
 
 To this end, this project investigates SOTA models and machine learning (ML) methods to quantify exposure and risk of the built environment at large scales, and would enable the beginnings of a **global risk audit**, measuring the changes of disaster risk profiles over time to assess whether countries are making progress (see [Research](research)).
 
- **We are always looking for external collaborators and stakeholders to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for stakeholders such as local disaster risk managers (especially from underrepresented and high-rise countries) for collaboration to inform our research design.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from the University of Cambridge International Bursary and the UK Research & Innovation Engineering and Physical Sciences Research Council.
