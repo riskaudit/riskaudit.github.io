@@ -76,9 +76,9 @@ Jump to [core](#core) and [collaborators](#collaborators). -->
 
 
 
-## Collaborators
+<!-- ## Collaborators
 
- **We are always looking for stakeholders such as local disaster risk managers (especially from underrepresented and high-risk countries) for collaboration to inform our research design.**
+ **We are always looking for stakeholders such as local disaster risk managers (especially from underrepresented and high-risk countries) for collaboration to inform our research design.** -->
 
 <!-- {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
