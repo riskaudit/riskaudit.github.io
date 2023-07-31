@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Global Disaster Risk Audit
+title: The Cambridge Risk Audit Project
 email: jtd33@cam.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Global Disaster Risk Audit.
+  Website of the Cambridge Risk Audit Project.
 baseurl: ""
 url: ""
 

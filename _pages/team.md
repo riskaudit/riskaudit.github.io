@@ -78,7 +78,9 @@ Jump to [core](#core) and [collaborators](#collaborators). -->
 
 ## Collaborators
 
-{% assign number_printed = 0 %}
+ **We are always looking for stakeholders such as local disaster risk managers (especially from underrepresented and high-risk countries) for collaboration to inform our research design.**
+
+<!-- {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -107,4 +109,4 @@ Jump to [core](#core) and [collaborators](#collaborators). -->
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
