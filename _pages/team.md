@@ -1,7 +1,7 @@
 ---
-title: "The Risk Audit Project - Team"
+title: "The Cambridge Risk Audit Project - Team"
 layout: gridlay
-excerpt: "The Risk Audit Project - Team Members"
+excerpt: "The Cambridge Risk Audit Project - Team Members"
 sitemap: false
 permalink: /team/
 ---
