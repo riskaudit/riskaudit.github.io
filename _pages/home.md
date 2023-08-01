@@ -1,7 +1,7 @@
 ---
-title: "The Risk Audit Project - Home"
+title: "The Cambridge Risk Audit Project - Home"
 layout: homelay
-excerpt: "The Risk Audit Project at the University of Cambridge."
+excerpt: "The Cambridge Risk Audit Project"
 sitemap: false
 permalink: /
 ---

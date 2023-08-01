@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "The Risk Audit Project at the University of Cambridge."
+excerpt: "The Cambridge Risk Audit Project"
 sitemap: false
 permalink: /allnews.html
 ---
